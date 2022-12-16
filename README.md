@@ -1,5 +1,5 @@
 # simplecoin
-_Applied cryptography teaching materials_
+_Applied cryptography teaching materials by Bartosz Sawicki, Warsaw University of Technology, 2022_
 
 0_bank - Central bank with confidential accounts 
 
